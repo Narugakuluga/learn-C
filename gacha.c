@@ -5,7 +5,6 @@ int math(void);
 double N(double P,double p2);
 
 int main(void){
-    char y;
     int x;
     while(1){
         x = math();
